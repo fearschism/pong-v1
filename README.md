@@ -1,1 +1,14 @@
 # pong-v1
+by ahmad attallah
+used pygame python
+Crap AI system but playable atleast
+USE ARROW KEYS TO CONTROL YOUR PLAYER
+STILL WORKING ON:
+###########
+PAUSE MENU--FINISHED BUT IT'S NOT WORKING
+TIMER
+SCORE
+ADVANCE AI PLAYER
+DIFFCULTY(EASY MEDIUM HARD)
+START MENU
+.....
